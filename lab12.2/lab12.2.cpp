@@ -22,7 +22,6 @@ int main()
 	Elem* first = NULL,
 		* last = NULL;
 
-	bool action;
 	Info info, N;
 
 	do
